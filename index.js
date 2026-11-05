@@ -1,0 +1,13 @@
+{
+  "name": "whatsapp-auto-bot",
+  "version": "1.0.0",
+  "description": "Bot WhatsApp automatique",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "whatsapp-web.js": "^1.26.0",
+    "qrcode-terminal": "^0.12.0"
+  }
+}
